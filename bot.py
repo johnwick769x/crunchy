@@ -4,7 +4,7 @@ from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # Bot Configuration
-BOT_TOKEN = "7772469056:AAFN5Y8gowJvaxhaS6JZJC03ICKOTmzDhKs"
+BOT_TOKEN = "8123639304:AAFXbtNuLJx19deGoHsX_Qv95PmSkx8QBfM"
 API_ID = 28271744
 API_HASH = "1df4d2b4dc77dc5fd65622f9d8f6814d"
 ADMIN_CHAT_ID = 6653249747
